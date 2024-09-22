@@ -1,0 +1,2 @@
+# bibtext_miniproject
+Ohjelmistotuotannon miniprojekti
